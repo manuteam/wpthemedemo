@@ -1,0 +1,47 @@
+{
+  "name": "demo-theme",
+  "version": "1.0.0",
+  "description": "Demo theme",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "@iconify-icons/uil": "^1.1.1",
+    "@iconify/react": "^1.1.4",
+    "@wordpress/api-fetch": "^5.1.1",
+    "@wordpress/babel-preset-default": "^6.2.0",
+    "@wordpress/scripts": "^16.1.4",
+    "babel-loader": "^8.0.2",
+    "css-loader": "^1.0.0",
+    "file-loader": "^6.2.0",
+    "postcss-loader": "6.1.1",
+    "postcss-preset-env": "^6.7.0",
+    "react-router-dom": "^5.2.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "feather-icons": "^4.28.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-feather": "^2.0.9",
+    "react-hot-loader": "^4.3.11",
+    "tiny-slider-react": "^0.5.3"
+  },
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "package-update": "wp-scripts package-update"
+  },
+  "keywords": [
+    "blog",
+    "decoupled",
+    "react"
+  ],
+  "author": "MANU:TEAM",
+  "license": "GPL-3.0"
+}

@@ -1,0 +1,141 @@
+{
+  "logo": [
+    {
+      "class": "logo-light-mode",
+      "image": "images/logo-dark.png"
+    },
+    {
+      "class": "logo-dark-mode",
+      "image": "images/logo-light.png"
+    }
+  ],
+  "text": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+  "socials": [
+    {
+      "dataFeather": "facebook",
+      "link": "#"
+    },
+    {
+      "dataFeather": "instagram",
+      "link": "#"
+    },
+    {
+      "dataFeather": "twitter",
+      "link": "#"
+    },
+    {
+      "dataFeather": "linkedin",
+      "link": "#"
+    }
+  ],
+  "company": {
+    "title": "Company",
+    "linksArray": [
+      {
+        "title": "About us",
+        "url": "#"
+      },
+      {
+        "title": "Services",
+        "url": "#"
+      },
+      {
+        "title": "Team",
+        "url": "#"
+      },
+      {
+        "title": "Pricing",
+        "url": "#"
+      },
+      {
+        "title": "Project",
+        "url": "#"
+      },
+      {
+        "title": "Careers",
+        "url": "#"
+      },
+      {
+        "title": "Blog",
+        "url": "#"
+      },
+      {
+        "title": "Login",
+        "url": "#"
+      }
+    ]
+  },
+  "usefulLinks": {
+    "title": "Useful Links",
+    "linksArray": [
+      {
+        "title": "Terms of Services",
+        "url": "#"
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "#"
+      },
+      {
+        "title": "Documentation",
+        "url": "#"
+      },
+      {
+        "title": "Changelog",
+        "url": "#"
+      },
+      {
+        "title": "Components",
+        "url": "#"
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "text": "Sign up and receive the latest tips via email.",
+    "form": {
+      "label": "Write your email",
+      "email": {
+        "placeholder": "Your email :",
+        "icon": "mail",
+        "type": "email"
+      },
+      "button": {
+        "type": "submit",
+        "id": "emailsubscribe",
+        "title": "Subscribe"
+      }
+    }
+  },
+  "bottom": {
+    "copyright": "Landrick.",
+    "payments": [
+      {
+        "title": "American Express",
+        "image": "images/payments/american-ex.png",
+        "link": "#"
+      },
+      {
+        "title": "Discover",
+        "image": "images/payments/discover.png",
+        "link": "#"
+      },
+      {
+        "title": "Master Card",
+        "image": "images/payments/master-card.png",
+        "link": "#"
+      },
+      {
+        "title": "Paypal",
+        "image": "images/payments/paypal.png",
+        "link": "#"
+      },
+      {
+        "title": "Visa",
+        "image": "images/payments/visa.png",
+        "link": "#"
+      }
+    ]
+  }
+
+}

@@ -1,0 +1,71 @@
+{
+  "heroTitle": "Pricing",
+  "sectionTitle": "Pricing #1",
+  "text": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+  "pricingArray": [
+    {
+      "name": "Free",
+      "cost": {
+        "currency": "$",
+        "value": "0",
+        "per": "month"
+      },
+      "features": [
+        "Full Access",
+        "Enhanced Security",
+        "Source Files",
+        "1 Domain Free"
+      ],
+      "button": {
+        "title": "Buy now",
+        "url": "#"
+      },
+      "isCentered": false,
+      "hasRibbon": false,
+      "ribbonText": ""
+    },
+    {
+      "name": "Starter",
+      "cost": {
+        "currency": "$",
+        "value": "18,99",
+        "per": "month"
+      },
+      "features": [
+        "Full Access",
+        "Source Files",
+        "Free Appointments",
+        "Free Installment",
+        "Enhanced Security"
+      ],
+      "button": {
+        "title": "Get started",
+        "url": "#"
+      },
+      "isCentered": true,
+      "hasRibbon": true,
+      "ribbonText": "Best"
+    },
+    {
+      "name": "Professional",
+      "cost": {
+        "currency": "$",
+        "value": "39,99",
+        "per": "month"
+      },
+      "features": [
+        "Full Access",
+        "Enhanced Security",
+        "Source Files",
+        "1 Domain Free"
+      ],
+      "button": {
+        "title": "Get started",
+        "url": "#"
+      },
+      "isCentered": false,
+      "hasRibbon": false,
+      "ribbonText": ""
+    }
+  ]
+}

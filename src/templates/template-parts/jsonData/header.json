@@ -1,0 +1,29 @@
+{
+  "logo": [
+    {
+      "class": "logo-light-mode",
+      "image": "images/logo-dark.png"
+    },
+    {
+      "class": "logo-dark-mode",
+      "image": "images/logo-light.png"
+    }
+  ],
+  "linkList": [
+    {
+      "title": "Home",
+      "linkTo": "/",
+      "subLinks": []
+    },
+    {
+      "title": "Documentation",
+      "linkTo": "/documentation",
+      "subLinks": []
+    },
+    {
+      "title": "Pricing",
+      "linkTo": "/pricing",
+      "subLinks": []
+    }
+  ]
+}

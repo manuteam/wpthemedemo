@@ -1,0 +1,26 @@
+[
+  {
+    "name": "amazon",
+    "image": "images/client/amazon.svg"
+  },
+  {
+    "name": "google",
+    "image": "images/client/google.svg"
+  },
+  {
+    "name": "lenovo",
+    "image": "images/client/lenovo.svg"
+  },
+  {
+    "name": "paypal",
+    "image": "images/client/paypal.svg"
+  },
+  {
+    "name": "shopify",
+    "image": "images/client/shopify.svg"
+  },
+  {
+    "name": "spotify",
+    "image": "images/client/spotify.svg"
+  }
+]

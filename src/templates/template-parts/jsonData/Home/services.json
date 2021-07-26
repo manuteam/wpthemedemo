@@ -1,0 +1,44 @@
+{
+  "tag": "Services",
+  "title": "MANU:team development services",
+  "text": "Start working with Manu team that can provide everything you need to generate awareness, drive traffic, connect.",
+  "buttonTitle": "See more",
+  "servicesArray": [
+    {
+      "wrapClasses": "col-12 mt-4 mt-lg-0 pt-2 pt-lg-0",
+      "icon": "rocket",
+      "link": {
+        "title": "Targeted High-quality Leads",
+        "url": "#"
+      },
+      "text": "It is a long established fact that a reader at its layout."
+    },
+    {
+      "wrapClasses": "col-12 mt-4 pt-2",
+      "icon": "airplay",
+      "link": {
+        "title": "Send, Schedule, and Snooze Emails",
+        "url": "#"
+      },
+      "text": "It is a long established fact that a reader at its layout."
+    },
+    {
+      "wrapClasses": "col-12 mt-4 pt-2",
+      "icon": "envelope",
+      "link": {
+        "title": "Library of the Best Email Templates",
+        "url": "#"
+      },
+      "text": "It is a long established fact that a reader at its layout."
+    },
+    {
+      "wrapClasses": "col-12 mt-4 pt-2",
+      "icon": "bell",
+      "link": {
+        "title": "Automated Follow-up Reminders",
+        "url": "#"
+      },
+      "text": "It is a long established fact that a reader at its layout."
+    }
+  ]
+}

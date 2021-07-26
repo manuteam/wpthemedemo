@@ -1,0 +1,48 @@
+{
+  "title": "Yea, it actually works.",
+  "subtitle": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+  "reviewsArray": [
+    {
+      "image": "images/client/01.jpg",
+      "rating": 5,
+      "text": " It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. ",
+      "name": "- Thomas Israel",
+      "position": "C.E.O"
+    },
+    {
+      "image": "images/client/02.jpg",
+      "rating": 3,
+      "text": " One disadvantage of Lorum Ipsum is that in Latin certain letters appear more frequently than others. ",
+      "name": "- Barbara McIntosh",
+      "position": "M.D"
+    },
+    {
+      "image": "images/client/03.jpg",
+      "rating": 4,
+      "text": " The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. ",
+      "name": "- Carl Oliver",
+      "position": "P.A"
+    },
+    {
+      "image": "images/client/04.jpg",
+      "rating": 2,
+      "text": " According to most sources, Lorum Ipsum can be traced back to a text composed by Cicero. ",
+      "name": "- Christa Smith",
+      "position": "Manager"
+    },
+    {
+      "image": "images/client/05.jpg",
+      "rating": 1,
+      "text": " There is now an abundance of readable dummy texts. These are usually used when a text is required. ",
+      "name": "- Dean Tolle",
+      "position": "Developer"
+    },
+    {
+      "image": "images/client/06.jpg",
+      "rating": 5,
+      "text": " Thus, Lorem Ipsum has only limited suitability as a visual filler for German texts. ",
+      "name": "- Jill Webb",
+      "position": "Designer"
+    }
+  ]
+}

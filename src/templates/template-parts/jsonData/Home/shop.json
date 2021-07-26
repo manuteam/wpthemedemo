@@ -1,0 +1,28 @@
+{
+  "image": "images/illustrator/envelope.svg",
+  "tag": {
+    "pill": "Apps",
+    "title": "Download now"
+  },
+  "title": "Available for your Smartphones",
+  "text": "Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.",
+  "buttons": [
+    {
+      "title": "App Store",
+      "icon": "uil-apple",
+      "url": "#"
+    },
+    {
+      "title": "Play Store",
+      "icon": "uil-google-play",
+      "url": "#"
+    }
+  ],
+  "footer": {
+    "text": "Install app now on your cellphones",
+    "link": {
+      "title": "Learn More",
+      "url": "#"
+    }
+  }
+}

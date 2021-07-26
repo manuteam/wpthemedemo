@@ -1,0 +1,128 @@
+[
+  {
+    "item": {
+      "isActive": true,
+      "icon": "uil-postcard",
+      "title": "Proposals",
+      "link": {
+        "url": "#developing",
+        "id": "proposal",
+        "areaControls": "developing"
+      }
+    },
+    "content": {
+      "title": "Win More Work",
+      "text": "This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody.",
+      "link": {
+        "title": "Explore Proposals",
+        "url": "#"
+      },
+      "image": "images/freelancer/proposals.png"
+    }
+  },
+  {
+    "item": {
+      "isActive": false,
+      "icon": "uil-notes",
+      "title": "Contracts",
+      "link": {
+        "url": "#data-analise",
+        "id": "contract",
+        "areaControls": "data-analise"
+      }
+    },
+    "content": {
+      "title": "Protect Your Business",
+      "text": "This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody.",
+      "link": {
+        "title": "Explore Contracts",
+        "url": "#"
+      },
+      "image": "images/freelancer/contract.png"
+    }
+  },
+  {
+    "item": {
+      "isActive": false,
+      "icon": "uil-folder-check",
+      "title": "Client CRM",
+      "link": {
+        "url": "#security",
+        "id": "crm",
+        "areaControls": "security"
+      }
+    },
+    "content": {
+      "title": "Stay Organized",
+      "text": "This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody.",
+      "link": {
+        "title": "Explore Projects",
+        "url": "#"
+      },
+      "image": "images/freelancer/crm.png"
+    }
+  },
+  {
+    "item": {
+      "isActive": false,
+      "icon": "uil-clock",
+      "title": "Time Tracking",
+      "link": {
+        "url": "#time-track",
+        "id": "timetracking",
+        "areaControls": "time-track"
+      }
+    },
+    "content": {
+      "title": "Keep It Simple",
+      "text": "This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody.",
+      "link": {
+        "title": "Explore Time Tracking",
+        "url": "#"
+      },
+      "image": "images/freelancer/time.png"
+    }
+  },
+  {
+    "item": {
+      "isActive": false,
+      "icon": "uil-invoice",
+      "title": "Invoices",
+      "link": {
+        "url": "#invoices",
+        "id": "invoice",
+        "areaControls": "invoices"
+      }
+    },
+    "content": {
+      "title": "Get Paid Faster",
+      "text": "This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody.",
+      "link": {
+        "title": "Explore Invoice",
+        "url": "#"
+      },
+      "image": "images/freelancer/invoice.png"
+    }
+  },
+  {
+    "item": {
+      "isActive": false,
+      "icon": "uil-exchange-alt",
+      "title": "Task Tracking",
+      "link": {
+        "url": "#task-track",
+        "id": "tasktracking",
+        "areaControls": "task-track"
+      }
+    },
+    "content": {
+      "title": "Be More Effective",
+      "text": "This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody.",
+      "link": {
+        "title": "Explore Task Tracking",
+        "url": "#"
+      },
+      "image": "images/freelancer/task.png"
+    }
+  }
+]
